@@ -21,3 +21,13 @@ il y a quelque chose de fascinant dans l'humain dans sa quête d'hurler dans le 
 mais bien sûr! le moteur de commentaires que j'utilise est [utterances](https://utteranc.es/), il vous faudra juste un compte github
 
 ce blog est encore globalement en construction, à tous les coups y a un truc qui marche pas, hésitez pas à me contacter sur [mastodon](https://piaille.fr/@zaski) ou sur discord @z4ski
+
+tient, puisqu'on est de retour sur le vieil internet, voici le **livre d'or** du site
+
+<script src="https://utteranc.es/client.js"
+        repo="ardicerk/ardisblog"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
