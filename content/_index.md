@@ -4,6 +4,4 @@ draft = false
 title = ''
 +++
 
-# bienvenue sur le blog d'ardi
-
-eeeeeuh ouai jsp
+salut, bienvenue sur le blog, là où j'écris parfois des trucs

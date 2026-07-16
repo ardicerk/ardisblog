@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>ardi&#39;s blog</title>
+		<title>le blog d&#39;ardi</title>
 		<link>//localhost:1313/</link>
-		<description>Recent content on ardi&#39;s blog</description>
+		<description>Recent content on le blog d&#39;ardi</description>
 		<generator>Hugo</generator>
 		<language>ch-fr</language>
 		
@@ -18,14 +18,14 @@
 				<link>//localhost:1313/about/</link>
 				<pubDate>Thu, 16 Jul 2026 16:57:03 +0200</pubDate>
 				<guid>//localhost:1313/about/</guid>
-				<description>&lt;h2 id=&#34;mais-bienvenue-dit-donc&#34;&gt;mais bienvenue dit donc&lt;/h2&gt;&#xA;&lt;p&gt;bienvenue sur ce petit blog, parce qu&amp;rsquo;on est de retour en 2002&lt;/p&gt;</description>
+				<description>&lt;h1 id=&#34;ah-euh-bonjour&#34;&gt;ah euh bonjour&lt;/h1&gt;&#xA;&lt;p&gt;bienvenue sur ce petit blog, parce qu&amp;rsquo;on est de retour en 2002&lt;/p&gt;&#xA;&lt;h2 id=&#34;mais-qui-suis-je&#34;&gt;mais qui suis-je?&lt;/h2&gt;&#xA;&lt;p&gt;alors moi c&amp;rsquo;est ardi, actuellement étudiant en informatique à l&amp;rsquo;EPFL, et sinon le reste de mon temps libre, j&amp;rsquo;essaie de faire des &lt;em&gt;trucs&lt;/em&gt;. les trucs en questions sont assez vastes et ont pas énormèment de liens entre eux, juste un amas de &lt;em&gt;trucs&lt;/em&gt;, je saurais même pas vraiment définir ce que c&amp;rsquo;est un &lt;em&gt;truc&lt;/em&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>j&#39;ai un blog, genre</title>
 				<link>//localhost:1313/posts/my-first-post/</link>
 				<pubDate>Thu, 16 Jul 2026 16:21:47 +0200</pubDate>
 				<guid>//localhost:1313/posts/my-first-post/</guid>
-				<description>&lt;h1 id=&#34;gaming&#34;&gt;Gaming&lt;/h1&gt;&#xA;&lt;p&gt;je suis un grand professionnel du web&lt;/p&gt;&#xA;&lt;script src=&#34;https://utteranc.es/client.js&#34;&#xD;&#xA;        repo=&#34;ardicerk/ardisblog&#34;&#xD;&#xA;        issue-term=&#34;pathname&#34;&#xD;&#xA;        theme=&#34;github-dark&#34;&#xD;&#xA;        crossorigin=&#34;anonymous&#34;&#xD;&#xA;        async&gt;&#xD;&#xA;&lt;/script&gt;</description>
+				<description>&lt;p&gt;alors eeeeeeeuh, bonjour internet&lt;/p&gt;&#xA;&lt;p&gt;j&amp;rsquo;vous avoue, ça faisait longtemps que je me tatais à faire un blog, peut-être par nostalgie d&amp;rsquo;un vieux web qui n&amp;rsquo;a jamais existé, ou peut-être par amour de laisser une trace numérique légèrement embarrassante de moi-même&lt;/p&gt;&#xA;&lt;p&gt;j&amp;rsquo;espère que le moteur de commentaires fonctionne, j&amp;rsquo;utilise un &lt;em&gt;truc&lt;/em&gt; qui se base sur les issues github (?????? je sais pas comment ca marche exactement mais whatever), du coup ouai si vous voulez commenter, c&amp;rsquo;est avec un compte github&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

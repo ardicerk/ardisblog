@@ -68,18 +68,18 @@ pagination.pagerSize = 5
   # This value can be customized according to Hugo documentation:
   # https://gohugo.io/functions/time/format/
   # Default value (no changes needed):
-  dateFormat = "02-01-2006"
+  dateFormat = "02.01.2006"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
 [languages]
   [languages.en]
     languageName = "Français"
-    title = "ardi's blog"
+    title = "le blog d'ardi"
 
     [languages.en.params]
       subtitle = "un énième blog parce que la vie est courte"
-      owner = ""
+      owner = "ardi"
       keywords = ""
       copyright = ""
       menuMore = "Show more"
@@ -93,7 +93,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "ardi's blog"
+        logoText = "le blog d'ardi"
         logoHomeLink = "/"
 
       [languages.en.menu]
