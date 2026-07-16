@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on ardi&#39;s blog</title>
-		<link>https://example.org/posts/</link>
+		<link>http://localhost:1313/posts/</link>
 		<description>Recent content in Posts on ardi&#39;s blog</description>
 		<generator>Hugo</generator>
 		<language>ch-fr</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 16 Jul 2026 16:21:47 +0200</lastBuildDate>
 		
-			<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>My First Post ouaaaai</title>
-				<link>https://example.org/posts/my-first-post/</link>
+				<link>http://localhost:1313/posts/my-first-post/</link>
 				<pubDate>Thu, 16 Jul 2026 16:21:47 +0200</pubDate>
-				<guid>https://example.org/posts/my-first-post/</guid>
+				<guid>http://localhost:1313/posts/my-first-post/</guid>
 				<description>&lt;h1 id=&#34;gaming&#34;&gt;Gaming&lt;/h1&gt;&#xA;&lt;p&gt;je suis un grand professionnel du web&lt;/p&gt;</description>
 			</item>
 	</channel>
