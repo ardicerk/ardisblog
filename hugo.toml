@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 locale = 'ch-fr'
 title = "ardi's blog"
-theme = 'ananke'
+theme = 'terminal'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
