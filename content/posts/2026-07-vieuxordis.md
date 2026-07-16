@@ -7,7 +7,7 @@ description = "les smart tv sont vraiment nulles, par contre un vieil ordi encor
 showFullContent = false
 readingTime = true
 hideComments = false
-draft = true
+draft = false
 +++
 
 une télé, c'est devenu stupidement pas cher. sur n'importe quel site d'occasion, vous pouvez en trouver des pelles pour moins de 100frs, et franchement, si vous cherchez pas de l'amoled au contraste infini ou que sais-je, ils sont encore de très bonne qualité, sauf que le problème, pour beaucoup d'entre eux, leur software est guez de fou furieux, si y en a un
