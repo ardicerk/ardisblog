@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>ardi&#39;s blog</title>
-		<link>https://example.org/</link>
+		<link>//localhost:1313/</link>
 		<description>Recent content on ardi&#39;s blog</description>
 		<generator>Hugo</generator>
 		<language>ch-fr</language>
@@ -10,14 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Thu, 16 Jul 2026 16:21:47 +0200</lastBuildDate>
+			<lastBuildDate>Thu, 16 Jul 2026 16:57:03 +0200</lastBuildDate>
 		
-			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>à propos</title>
+				<link>//localhost:1313/about/</link>
+				<pubDate>Thu, 16 Jul 2026 16:57:03 +0200</pubDate>
+				<guid>//localhost:1313/about/</guid>
+				<description>&lt;h2 id=&#34;mais-bienvenue-dit-donc&#34;&gt;mais bienvenue dit donc&lt;/h2&gt;&#xA;&lt;p&gt;bienvenue sur ce petit blog, parce qu&amp;rsquo;on est de retour en 2002&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>My First Post ouaaaai</title>
-				<link>https://example.org/posts/my-first-post/</link>
+				<link>//localhost:1313/posts/my-first-post/</link>
 				<pubDate>Thu, 16 Jul 2026 16:21:47 +0200</pubDate>
-				<guid>https://example.org/posts/my-first-post/</guid>
+				<guid>//localhost:1313/posts/my-first-post/</guid>
 				<description>&lt;h1 id=&#34;gaming&#34;&gt;Gaming&lt;/h1&gt;&#xA;&lt;p&gt;je suis un grand professionnel du web&lt;/p&gt;</description>
 			</item>
 	</channel>
