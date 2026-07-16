@@ -23,6 +23,8 @@ est-ce que je devrais acheter un nom de domaine? surement. mais pour l'instant, 
 
 bref, oui le lien (pour l'instant) c'est [ardicerk.github.io/ardisblog/](https://ardicerk.github.io/ardisblog/), peut-être qu'un jour je paierais ces 2.50frs par an pour avoir un splendide et arrogant '.ch'
 
+j'avais passé ma journée à essayer de self-host tout ce machin, mais j'en ai eu tellement marre de nginx qu'au final, tout est hebergé avec GitHub Pages
+
 sur ce, je vais aller chercher comment mettre du comic sans ms à des endroits inopportuns
 
 
