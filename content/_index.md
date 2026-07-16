@@ -4,4 +4,4 @@ draft = false
 title = ''
 +++
 
-salut, bienvenue sur le blog, là où j'écris parfois des trucs
+salut c'est ardi, bienvenue sur mon blog, là où j'écris parfois des trucs
