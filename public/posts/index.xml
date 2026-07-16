@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 16 Jul 2026 16:21:47 +0200</lastBuildDate>
+			<lastBuildDate>Thu, 16 Jul 2026 18:30:51 +0200</lastBuildDate>
 		
 			<atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>un vieil ordi est le meilleur smart tv</title>
+				<link>//localhost:1313/posts/2026-07-vieuxordis/</link>
+				<pubDate>Thu, 16 Jul 2026 18:30:51 +0200</pubDate>
+				<guid>//localhost:1313/posts/2026-07-vieuxordis/</guid>
+				<description>&lt;p&gt;une télé, c&amp;rsquo;est devenu stupidement pas cher. sur n&amp;rsquo;importe quel site d&amp;rsquo;occasion, vous pouvez en trouver des pelles pour moins de 100frs, et franchement, si vous cherchez pas de l&amp;rsquo;amoled au contraste infini ou que sais-je, ils sont encore de très bonne qualité, sauf que le problème, pour beaucoup d&amp;rsquo;entre eux, leur software est guez de fou furieux, si y en a un&lt;/p&gt;&#xA;&lt;p&gt;pour un anniversaire il y a déjà plusieurs anniversaires de cela, on m&amp;rsquo;avait offert une nouvelle télé flambant neuve avec Android TV inclus. faut dire qu&amp;rsquo;elle remplaçait ma vieille dalle lcd qui me servait d&amp;rsquo;écran qui, bien qu&amp;rsquo;encore fonctionnelle, avait subi un impact dans un&amp;hellip;. combat légèrement humiliant contre une mouche. vous en faites pas, je l&amp;rsquo;ai donné à quelqu&amp;rsquo;un d&amp;rsquo;autre, je n&amp;rsquo;allais quand meme pas jeter une télé qui fonctionne&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>j&#39;ai un blog, genre</title>
 				<link>//localhost:1313/posts/my-first-post/</link>

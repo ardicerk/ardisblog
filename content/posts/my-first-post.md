@@ -7,7 +7,7 @@ authorTwitter = "" #do not include @
 cover = ""
 description = "twitter est mort, substack est cringe, y a personne sur mastodon et bluesky est déprimant, longue vie aux blogs personnels"
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 +++
 
