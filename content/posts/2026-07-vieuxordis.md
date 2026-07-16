@@ -18,13 +18,13 @@ cette nouvelle télé m'avait fait réaliser quelque chose que j'avais déjà ir
 
 sauf que l'appli youtube tv avait toujours trop de pubs. et j'aime pas les pubs. du coup, j'ai fait la seule chose sensée: j'ai ressorti mon splendide Dell Optiplex 9020 de ma cave.
 
-![targets](ardisblog/images/202607/splendide-dell-optiplex.jpg)
+![targets](/ardisblog/images/202607/splendide-dell-optiplex.jpg)
 
 cette petite machine de 2014, trouvée il y a déjà 8 ans dans une benne d'upcycling d'un bureau d'un journal local qui fermait, a vu mes débuts dans mes vaines tentatives de sysadmin, puisque c'est dessus que j'y ai hebergé mon serveur minecraft du confinement (un pic de 10 joueurs simultanés sur une pauvre connexion au cuivre limité à 30mbps, saluez l'exploit). il avait fini par prendre la poussière, je l'avais sorti qu'une fois pour sa prise serial pour essayer d'y faire fonctionner un écran de caisse enregistreuse (j'vous raconterais ca un jour ptetre)
 
 et en plus de cette tour, j'avais aussi commandé cette télécommande-clavier-souris pour pouvoir plus simplement contrôler cet ordi, une fois branchée à la télé, qui est surprenament pas si non-ergonomique que ca? (trombone pour référence)
 
-![targets](ardisblog/images/202607/telecommande.jpg)
+![targets](/ardisblog/images/202607/telecommande.jpg)
 
 pour le pc, je ne me suis pas foulé, j'aurais pu utiliser [Plasma Bigscreen](https://plasma-bigscreen.org/fr/) de kde, mais sachant pas trop le niveau d'accélération matériel que me permettait ce pc, j'ai préféré jouer l'efficacité avec linux mint et xfce.
 
