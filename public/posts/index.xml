@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 16 Jul 2026 22:30:51 +0200</lastBuildDate>
+			<lastBuildDate>Sun, 19 Jul 2026 11:51:54 +0200</lastBuildDate>
 		
 			<atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>comment faire un pc en bois</title>
+				<link>//localhost:1313/posts/2026-07-pc-en-bois/</link>
+				<pubDate>Sun, 19 Jul 2026 11:51:54 +0200</pubDate>
+				<guid>//localhost:1313/posts/2026-07-pc-en-bois/</guid>
+				<description>&lt;p&gt;j&amp;rsquo;ai &lt;em&gt;énormèment&lt;/em&gt; d&amp;rsquo;e-waste chez moi. il y a 2 ans, j&amp;rsquo;ai pu changer mon ordinateur principal pour celui d&amp;rsquo;un pote qui changeait le sien. je pouvais alors enfin donner une retraite bien mérité au bateau de thésée qu&amp;rsquo;était mon ordinateur. acheté et monté en 2017, sous les conseils achat du jean-baptiste show. les seules choses qui restaient du build original était les 8gb de ram, le disque dur, l&amp;rsquo;alimentation et le boitier.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>un vieil ordi est le meilleur smart tv</title>
 				<link>//localhost:1313/posts/2026-07-vieuxordis/</link>
