@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>le blog d&#39;ardi</title>
-		<link>//localhost:1313/</link>
+		<link>/</link>
 		<description>Recent content on le blog d&#39;ardi</description>
 		<generator>Hugo</generator>
 		<language>ch-fr</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Sun, 18 Oct 2026 14:53:55 +0200</lastBuildDate>
 		
-			<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>le pull en laine open-source</title>
-				<link>//localhost:1313/posts/2026-10-pull-en-laine/</link>
+				<link>/posts/2026-10-pull-en-laine/</link>
 				<pubDate>Sun, 18 Oct 2026 14:53:55 +0200</pubDate>
-				<guid>//localhost:1313/posts/2026-10-pull-en-laine/</guid>
+				<guid>/posts/2026-10-pull-en-laine/</guid>
 				<description>&lt;p&gt;j&amp;rsquo;ai toujours eu un amour peu explicable envers les couvertures en laines. étant des balkans, j&amp;rsquo;ai une forme de nostalgie particulière pour ces couvertures bien épaisses à motif de roses, de fleurs ou même avec un tigre, que les duvet et les plaids modernes n&amp;rsquo;arrivent qu&amp;rsquo;à veinement imiter. encore aujourd&amp;rsquo;hui, quand l&amp;rsquo;hiver montre le bout de son nez, je sors cette couverture que ma mère avait acheté dans un marché à Gjilan il y a déjà 15 à 20 ans de cela, et elle essaie encore aujourd&amp;rsquo;hui de me convaincre de me débarrasser de cette soit-disante &amp;ldquo;vieillerie&amp;rdquo;, alors qu&amp;rsquo;aucune autre couverture n&amp;rsquo;arrive à contenir à sa manière la chaleur et la douceur face au froid alpin, comme si cette couverture prévue à la base pour la vallée de Drenica et des montagnes du Sharri avait été fait avec tellement de soin qu&amp;rsquo;elle avait pleinement sa place au pied des alpes suisses&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>comment faire un pc en bois</title>
-				<link>//localhost:1313/posts/2026-07-pc-en-bois/</link>
+				<link>/posts/2026-07-pc-en-bois/</link>
 				<pubDate>Sun, 19 Jul 2026 11:51:54 +0200</pubDate>
-				<guid>//localhost:1313/posts/2026-07-pc-en-bois/</guid>
+				<guid>/posts/2026-07-pc-en-bois/</guid>
 				<description>&lt;p&gt;j&amp;rsquo;ai &lt;em&gt;énormèment&lt;/em&gt; d&amp;rsquo;e-waste chez moi. il y a 2 ans, j&amp;rsquo;ai pu changer mon ordinateur principal pour celui d&amp;rsquo;un pote qui changeait le sien. je pouvais alors enfin donner une retraite bien mérité au bateau de thésée qu&amp;rsquo;était mon ordinateur. acheté et monté en 2017, sous les conseils achat du jean-baptiste show. les seules choses qui restaient du build original était les 8gb de ram, le disque dur, l&amp;rsquo;alimentation et le boitier.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>un vieil ordi est le meilleur smart tv</title>
-				<link>//localhost:1313/posts/2026-07-vieuxordis/</link>
+				<link>/posts/2026-07-vieuxordis/</link>
 				<pubDate>Thu, 16 Jul 2026 22:30:51 +0200</pubDate>
-				<guid>//localhost:1313/posts/2026-07-vieuxordis/</guid>
+				<guid>/posts/2026-07-vieuxordis/</guid>
 				<description>&lt;p&gt;une télé, c&amp;rsquo;est devenu stupidement pas cher. sur n&amp;rsquo;importe quel site d&amp;rsquo;occasion, vous pouvez en trouver des pelles pour moins de 100frs, et franchement, si vous cherchez pas de l&amp;rsquo;amoled au contraste infini ou que sais-je, ils sont encore de très bonne qualité, sauf que le problème, pour beaucoup d&amp;rsquo;entre eux, leur software est guez de fou furieux, si y en a un&lt;/p&gt;&#xA;&lt;p&gt;pour un anniversaire il y a déjà plusieurs anniversaires de cela, on m&amp;rsquo;avait offert une nouvelle télé flambant neuve avec Android TV inclus. faut dire qu&amp;rsquo;elle remplaçait ma vieille dalle lcd qui me servait d&amp;rsquo;écran qui, bien qu&amp;rsquo;encore fonctionnelle, avait subi un impact dans un&amp;hellip; combat légèrement humiliant contre une mouche. vous en faites pas, je l&amp;rsquo;ai donné à quelqu&amp;rsquo;un d&amp;rsquo;autre, je n&amp;rsquo;allais quand meme pas jeter une télé qui fonctionne&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>à propos</title>
-				<link>//localhost:1313/about/</link>
+				<link>/about/</link>
 				<pubDate>Thu, 16 Jul 2026 16:57:03 +0200</pubDate>
-				<guid>//localhost:1313/about/</guid>
+				<guid>/about/</guid>
 				<description>&lt;h1 id=&#34;ah-euh-bonjour&#34;&gt;ah euh bonjour&lt;/h1&gt;&#xA;&lt;p&gt;bienvenue sur ce petit blog, parce qu&amp;rsquo;on est de retour en 2002&lt;/p&gt;&#xA;&lt;h2 id=&#34;mais-qui-suis-je&#34;&gt;mais qui suis-je?&lt;/h2&gt;&#xA;&lt;p&gt;alors moi c&amp;rsquo;est ardi, actuellement étudiant en informatique à l&amp;rsquo;EPFL, et sinon le reste de mon temps libre, j&amp;rsquo;essaie de faire des &lt;em&gt;trucs&lt;/em&gt;. les trucs en questions sont assez vastes et ont pas énormèment de liens entre eux, juste un amas de &lt;em&gt;trucs&lt;/em&gt;, je saurais même pas vraiment définir ce que c&amp;rsquo;est un &lt;em&gt;truc&lt;/em&gt;.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>j&#39;ai un blog, genre</title>
-				<link>//localhost:1313/posts/my-first-post/</link>
+				<link>/posts/my-first-post/</link>
 				<pubDate>Thu, 16 Jul 2026 16:21:47 +0200</pubDate>
-				<guid>//localhost:1313/posts/my-first-post/</guid>
+				<guid>/posts/my-first-post/</guid>
 				<description>&lt;p&gt;alors eeeeeeeuh, bonjour internet&lt;/p&gt;&#xA;&lt;p&gt;j&amp;rsquo;vous avoue, ça faisait longtemps que je me tatais à faire un blog, peut-être par nostalgie d&amp;rsquo;un vieux web qui n&amp;rsquo;a jamais existé, ou peut-être par amour de laisser une trace numérique légèrement embarrassante de moi-même&lt;/p&gt;&#xA;&lt;p&gt;j&amp;rsquo;espère que le moteur de commentaires fonctionne, j&amp;rsquo;utilise un &lt;em&gt;truc&lt;/em&gt; qui se base sur les issues github (?????? je sais pas comment ca marche exactement mais whatever), du coup ouai si vous voulez commenter, c&amp;rsquo;est avec un compte github&lt;/p&gt;</description>
 			</item>
 	</channel>

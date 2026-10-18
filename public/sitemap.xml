@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/2026-10-pull-en-laine/</loc>
+    <loc>/posts/2026-10-pull-en-laine/</loc>
     <lastmod>2026-10-18T14:53:55+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2026-10-18T14:53:55+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2026-07-pc-en-bois/</loc>
+    <loc>/posts/2026-07-pc-en-bois/</loc>
     <lastmod>2026-07-19T11:51:54+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2026-07-vieuxordis/</loc>
+    <loc>/posts/2026-07-vieuxordis/</loc>
     <lastmod>2026-07-16T22:30:51+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2026-07-16T17:19:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2026-07-16T16:57:03+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2026-07-16T16:21:47+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
