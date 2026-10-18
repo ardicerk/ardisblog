@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 19 Jul 2026 11:51:54 +0200</lastBuildDate>
+			<lastBuildDate>Sun, 18 Oct 2026 14:53:55 +0200</lastBuildDate>
 		
 			<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>le pull en laine open-source</title>
+				<link>//localhost:1313/posts/2026-10-pull-en-laine/</link>
+				<pubDate>Sun, 18 Oct 2026 14:53:55 +0200</pubDate>
+				<guid>//localhost:1313/posts/2026-10-pull-en-laine/</guid>
+				<description>&lt;p&gt;j&amp;rsquo;ai toujours eu un amour peu explicable envers les couvertures en laines. étant des balkans, j&amp;rsquo;ai une forme de nostalgie particulière pour ces couvertures bien épaisses à motif de roses, de fleurs ou même avec un tigre, que les duvet et les plaids modernes n&amp;rsquo;arrivent qu&amp;rsquo;à veinement imiter. encore aujourd&amp;rsquo;hui, quand l&amp;rsquo;hiver montre le bout de son nez, je sors cette couverture que ma mère avait acheté dans un marché à Gjilan il y a déjà 15 à 20 ans de cela, et elle essaie encore aujourd&amp;rsquo;hui de me convaincre de me débarrasser de cette soit-disante &amp;ldquo;vieillerie&amp;rdquo;, alors qu&amp;rsquo;aucune autre couverture n&amp;rsquo;arrive à contenir à sa manière la chaleur et la douceur face au froid alpin, comme si cette couverture prévue à la base pour la vallée de Drenica et des montagnes du Sharri avait été fait avec tellement de soin qu&amp;rsquo;elle avait pleinement sa place au pied des alpes suisses&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>comment faire un pc en bois</title>
 				<link>//localhost:1313/posts/2026-07-pc-en-bois/</link>
